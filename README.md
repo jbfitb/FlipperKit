@@ -35,5 +35,5 @@ zip -vr FlipperKit.framework.zip ./Carthage/ -x "*.DS_Store"
 To use, add this line to your `Cartfile`:
 
 ```
-binary "https://raw.githubusercontent.com/twilio/twilio-voice-ios/Releases/twilio-voice-ios.json" == 5.3.1
+binary "https://github.com/jbfitb/FlipperKit/raw/master/carthage.json" == 0.45.0
 ```
