@@ -1,0 +1,7 @@
+.DS_Store
+Pods/
+FlipperKit.xcodeproj/xcuserdata
+FlipperKit.xcodeproj/project.xcworkspace/xcuserdata/
+FlipperKit.xcworkspace/xcuserdata/
+build/
+Carthage/
