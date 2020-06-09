@@ -21,7 +21,7 @@ pod install
 Then build the project with carthage:
 
 ```
-carthage build --no-skip-current --platform iOS
+carthage build --configuration Debug --no-skip-current --platform iOS
 zip -vr FlipperKit.framework.zip ./Carthage/ -x "*.DS_Store"
 ```
 

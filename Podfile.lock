@@ -75,6 +75,7 @@ DEPENDENCIES:
   - Flipper-PeerTalk
   - FlipperKit (~> 0.45.0)
   - FlipperKit/FlipperKitLayoutComponentKitSupport (~> 0.45.0)
+  - FlipperKit/FlipperKitLayoutPlugin (~> 0.45.0)
   - FlipperKit/FlipperKitUserDefaultsPlugin (~> 0.45.0)
   - FlipperKit/SKIOSNetworkPlugin (~> 0.45.0)
   - OpenSSL-Universal
@@ -114,6 +115,6 @@ SPEC CHECKSUMS:
   Yoga: cff67a400f6b74dc38eb0bad4f156673d9aa980c
   YogaKit: f782866e155069a2cca2517aafea43200b01fd5a
 
-PODFILE CHECKSUM: 3638ac4739c96923a549ed91e68f95ecc53fc503
+PODFILE CHECKSUM: f8617bb1a14208db82dcda30cb01596dbab6e480
 
 COCOAPODS: 1.9.3
